@@ -1,0 +1,81 @@
+body {
+    background: linear-gradient(to right, #45c9fe, #e91fa8);
+}
+
+.home {
+    width: 400px;
+    height: 500px;
+    background-color: aliceblue;
+    margin: 8rem 40rem;
+    border-radius: 20px;;
+}
+
+h1{
+    padding-top: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.home-container{
+    padding-left: 50px;
+}
+.lablecls{
+    padding-top: 30px;
+    font-weight: 200;
+}
+.login-input {
+	border: none;
+	border-bottom: 2px solid #D1D1D4;
+	background: none;
+	padding: 10px;
+	padding-left: 24px;
+	font-weight: 700;
+	width: 75%;
+	transition: .2s;
+}
+.Forgot{
+    padding-left: 200px;
+}
+.btn{
+    margin-left: 15%;
+width: 200px;
+height: 30px;
+color: antiquewhite;
+border-radius: 50px;
+background: linear-gradient(to right, #45c9fe, #e91fa8);
+}
+
+
+.social{
+    margin-left: 28%;
+}
+.social-list {
+    margin-left: 18%; 
+  }
+  
+  .btn-socialfb,
+  .btn-socialgm,
+  .btn-socialx {
+    display: inline-block;
+    border: none;
+    height: 50px;
+    width: 50px;
+   border-radius: 35px;
+    cursor: pointer;
+    font-size: 26px;
+  }
+  
+  .btn-socialfb,
+  .btn-socialgm {
+    margin-right: 10px;
+  }
+  .btn-socialfb{
+    background-color: blue;
+  }
+  .btn-socialgm{
+    background-color: rgb(255, 0, 0);
+  }
+  .btn-socialx{
+    background-color: rgb(125, 134, 250);
+  }
+  
+  
